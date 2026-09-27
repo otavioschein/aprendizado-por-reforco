@@ -1,0 +1,9 @@
+config_id,learning_rate,exploration_fraction,buffer_size,reward_mean,reward_std,on_time_mean,late_mean,expired_mean,crash_rate
+DQN_learning_rate=0.0001_exploration_fraction=0.1_buffer_size=1000000,0.0001,0.1,1000000,-2.9846666666666977,25.22176239326312,1.48,0.18,0.46,0.72
+DQN_learning_rate=0.0001_exploration_fraction=0.1_buffer_size=50000,0.0001,0.1,50000,12.856666666666625,26.74967517975166,1.68,0.14,0.64,0.46
+DQN_learning_rate=0.0001_exploration_fraction=0.3_buffer_size=1000000,0.0001,0.3,1000000,2.1413333333333013,13.414421029457642,1.82,0.1,0.12,0.88
+DQN_learning_rate=0.0001_exploration_fraction=0.3_buffer_size=50000,0.0001,0.3,50000,25.39399999999997,33.62797690415923,2.06,0.32,0.02,0.58
+DQN_learning_rate=0.0005_exploration_fraction=0.1_buffer_size=1000000,0.0005,0.1,1000000,26.62866666666664,35.0358489486919,2.06,0.28,0.08,0.54
+DQN_learning_rate=0.0005_exploration_fraction=0.1_buffer_size=50000,0.0005,0.1,50000,30.601333333333304,35.24392963334254,2.06,0.4,0.0,0.5
+DQN_learning_rate=0.0005_exploration_fraction=0.3_buffer_size=1000000,0.0005,0.3,1000000,21.521999999999977,38.04539896842543,1.82,0.38,0.36,0.46
+DQN_learning_rate=0.0005_exploration_fraction=0.3_buffer_size=50000,0.0005,0.3,50000,30.015333333333302,34.05898296256722,2.0,0.46,0.04,0.48

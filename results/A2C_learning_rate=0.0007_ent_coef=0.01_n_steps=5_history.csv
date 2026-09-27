@@ -1,0 +1,3 @@
+reward_mean,reward_std,on_time_mean,late_mean,expired_mean,crash_rate,stage,timesteps
+37.29999999999997,33.974709548263824,2.3,0.25,0.0,0.45,stage1,1000000
+37.156666666666645,33.88352123246802,2.3,0.25,0.0,0.45,stage2,2000000
